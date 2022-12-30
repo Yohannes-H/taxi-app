@@ -4,7 +4,7 @@ import tw from "twrnc";
 const HomeScreen = () => {
   return (
     <SafeAreaView>
-      <Text style={tw`text-red-500 p-10`}>HomeScreen</Text>
+      <Text style={tw`text-red-500 p-10`}>HomeScreen time: 4:09</Text>
     </SafeAreaView>
   );
 };
